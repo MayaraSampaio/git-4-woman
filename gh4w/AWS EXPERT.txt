@@ -1,0 +1,9 @@
+-Agility
+-Maintenance
+-Reability
+-Security
+-Performance
+-Scalability
+-Cost and Elasticity
+
+nist 
